@@ -1,5 +1,5 @@
 #!/bin/bash
-#Script Updater By NevermoreSSH
+#Script Updater By daneshswara29
 Font_Black="\033[30m";
 Font_Red="\033[31m";
 Font_Green="\033[32m";

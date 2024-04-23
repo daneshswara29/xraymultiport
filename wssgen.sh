@@ -2,7 +2,7 @@
 # =========================================
 # Quick Setup | Script Setup Manager
 # Edition : Stable Edition V1.0
-# Auther  : NevermoreSSH
+# Auther  : daneshswara29
 # (C) Copyright 2022
 # =========================================
 clear
@@ -12,7 +12,7 @@ vmess_req() {
     echo -e " \E[0;41;36m               WSS CONVERTER               \E[0m"
     echo -e "\e[36m╘═══════════════════════════════════════════╛\033[0m"
     echo -e "\033[1;37mWSS Converter By Daneshswara\033[0m"
-    echo -e "\033[1;37mTelegram : https://t.me/todfix667 / @todfix667\033[0m"
+    echo -e "\033[1;37mTelegram : https://t.me/D_swara / @D_swara\033[0m"
     echo ""
     echo -e "[1] Digi"
     echo -e "[2] Maxis"
@@ -95,7 +95,7 @@ vless_req() {
     echo -e " \E[0;41;36m               WSS CONVERTER               \E[0m"
     echo -e "\e[36m╘═══════════════════════════════════════════╛\033[0m"
     echo -e "\033[1;37mWSS Converter By Daneshswara\033[0m"
-    echo -e "\033[1;37mTelegram : https://t.me/D_swara / @D_swarw\033[0m"
+    echo -e "\033[1;37mTelegram : https://t.me/D_swara / @D_swara\033[0m"
 	echo ""
     echo -e "[1] Digi"
     echo -e "[2] Maxis"
@@ -159,7 +159,7 @@ trojan_req() {
     echo -e " \E[0;41;36m               WSS CONVERTER               \E[0m"
     echo -e "\e[36m╘═══════════════════════════════════════════╛\033[0m"
     echo -e "\033[1;37mWSS Converter By Daneshswara\033[0m"
-    echo -e "\033[1;37mTelegram : https://t.me/todfix667 / @todfix667\033[0m"
+    echo -e "\033[1;37mTelegram : https://t.me/D_swara / @D_swara\033[0m"
     echo ""
     echo -e "[1] Digi"
     echo -e "[2] Maxis"
@@ -222,7 +222,7 @@ protocol_req() {
     echo -e " \E[0;41;36m               WSS CONVERTER               \E[0m"
     echo -e "\e[36m╘═══════════════════════════════════════════╛\033[0m"
     echo -e "\033[1;37mWSS Converter By Daneshswara\033[0m"
-    echo -e "\033[1;37mTelegram : https://t.me/todfix667 / @todfix667\033[0m"
+    echo -e "\033[1;37mTelegram : https://t.me/D_swara / @D_swara\033[0m"
     echo ""
     echo -e "[1] Vmess"
     echo -e "[2] Vless"

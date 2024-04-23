@@ -1,5 +1,5 @@
 #!/bin/bash
-#Script Updater By NevermoreSSH
+#Script Updater By daneshswara29
 #OnigiriWebsocketPremium-V2
 red='\e[1;31m'
 green='\e[0;32m'

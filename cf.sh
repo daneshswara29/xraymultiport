@@ -2,7 +2,7 @@
 # =========================================
 # Quick Setup | Script Setup Manager
 # Edition : Stable Edition V1.0
-# Auther  : NevermoreSSH
+# Auther  : daneshswara29
 # (C) Copyright 2022
 # =========================================
 
@@ -10,11 +10,11 @@ clear
 MYIP=$(wget -qO- ipinfo.io/ip);
 clear
 apt install jq curl -y >/dev/null 2>&1
-DOMAIN=nevermoressh.me
+DOMAIN=daneshswara.online
 sub=$(</dev/urandom tr -dc a-x1-9 | head -c6 | tr -d '\r' | tr -d '\r\n')
-SUB_DOMAIN=${sub}.nevermoressh.me
-CF_ID=elliez667@gmail.com
-CF_KEY=1d158d0efc4eef787222cefff0b6d20981462
+SUB_DOMAIN=${sub}.daneshswara.online
+CF_ID=okysmilee3@gmail.com
+CF_KEY=f08965a2c5f0ace8d3ded8e5a7ddeb2f08b6a
 set -euo pipefail
 IP=$(wget -qO- ipinfo.io/ip);
 echo "Updating DNS for ${SUB_DOMAIN}..."

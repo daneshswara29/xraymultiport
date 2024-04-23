@@ -2,7 +2,7 @@
 # =========================================
 # Quick Setup | Script Setup Manager
 # Edition : Stable Edition V1.0
-# Auther  : NevermoreSSH
+# Auther  : daneshswara29
 # (C) Copyright 2022
 # =========================================
 red='\e[1;31m'
